@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajan Saha Raju!
-- 👀 I’m interested in IoT, Networking.
-- 🌱 I’m currently learning Go programming language.
-- 💞️ I’m looking to collaborate on Go based project.
+- 👀 Actually, Fun Programmer.
+- 🌱 I’m currently learning IoT.
+- 💞️ I’m looking to collaborate on any fun project.
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 <!---
