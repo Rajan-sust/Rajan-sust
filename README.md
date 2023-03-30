@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajan Saha Raju!
 - 👀 Actually, Fun Programmer.
-- 🌱 I’m currently learning IoT.
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on any fun project.
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
