@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a Computer Scientist. And people call me Rajan affectionately.
-- 👀 Actually, Fun Programmer.
-- 🌱 Currently Working on Bangla NLP 
+- 👋 Hi, I’m a Computer Scientist. And people call me Rajan affectionately
+- 👀 Think, Analyze & Develop just for fun
+- 🌱 Currently Working on a Bangla NLP research work 
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 
