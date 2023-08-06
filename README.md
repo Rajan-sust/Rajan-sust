@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rajan Saha Raju!
+- 👋 Hi, I’m a Computer Scientist. And people call me Rajan affectionately.
 - 👀 Actually, Fun Programmer.
-- 🌱 I’m currently learning Cyber Security
+- 🌱 Currently Working on Bangla NLP 
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 
