@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Computer Scientist. And people call me Rajan affectionately
 - 👀 Think, Analyze & Develop just for fun
-- 🌱 currently working on creating an enterprise-level VPN server management solution
+- 🌱 Currently working on creating an enterprise-level VPN server management solution
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 
