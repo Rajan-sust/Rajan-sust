@@ -1,11 +1,11 @@
 - 👋 Hi, I’m a Computer Scientist. And people call me Rajan affectionately
 - 👀 Think, Analyze & Develop just for fun
-- 🌱 Currently Working on a Bangla NLP research work 
+- 🌱 currently working on creating an enterprise-level VPN server management solution
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 
 #### Skills :
-- **Programming Languages** :  Python3, C, Java, PHP, Javascript, Golang
+- **Programming Languages** :  Python3, C++, Java, PHP, Javascript, Golang
 - **Frameworks** : Flask, Laravel, Express
 - **Web Technologies** : REST
 - **Data Management** : MySQL, MongoDB, Redis
