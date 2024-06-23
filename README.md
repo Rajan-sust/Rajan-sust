@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Computer Scientist. And people call me Rajan affectionately
 - 👀 Think, Analyze & Develop just for fun
-- 🌱 Expert in: LLM, RAG, Vision, Embedding
+- 🌱 Expertise: LLM, Retrieval-Augmented Generation (RAG), Computer Vision, Text Embedding, Bioinformatics
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 
