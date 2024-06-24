@@ -4,12 +4,18 @@
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 <h4 align="left">Programming Languages:</h4>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/favicon.ico?v=2" alt="PHP" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/favicon.ico?v=2" alt="PHP" width="40" height="40"/> </a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a><a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/> </a>
+
+
+  
 </p>
 
 <h4 align="left">Frameworks:</h4>
 <p align="left">
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="python" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/favicon.png" alt="FastAPI" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="python" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/favicon.png" alt="FastAPI" width="40" height="40"/></a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
+
+
+  
 </p>
 
 <h4 align="left">Databases:</h4>
