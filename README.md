@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a Computer Scientist. And people call me Rajan affectionately
+- 👋 Hi, I’m a CS graduate. And people call me Rajan affectionately
 - 👀 Think, Analyze & Develop just for fun
-- 🌱 Expertise: LLM, Retrieval-Augmented Generation (RAG), Computer Vision, Text Embedding, Bioinformatics
+- 🌱 Expertise: Spoken Language Processing (SLP), Natural Language Processing (NLP), Generative AI, Bioinformatics
 - 📫 How to reach me? Mail me: rajanrajusust@gmail.com
 
 <h4 align="left">Programming Languages:</h4>
