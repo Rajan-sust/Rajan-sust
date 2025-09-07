@@ -7,7 +7,7 @@
 
 #### Technical Skills
 - **Programming Languages**: `Python3` `R` `Bash` `C++` `Java` `Go` `PHP`
-- **Libraries**: `Biopython`, `PyTorch` `scikit-learn` `pandas` `Matplotlib` `SciPy` `NumPy` `XGBoost`
+- **Libraries**: `Biopython` `PyTorch` `scikit-learn` `pandas` `Matplotlib` `SciPy` `NumPy` `XGBoost`
 - **Databases**: `MySQL` `MongoDB` `Vector DB (Milvus, Qdrant)`
 - **Web**: `JavaScript` `FastAPI` `Laravel` `Apache` `Nginx`
 - **Misc.**: `Git` `Linux` `Docker` `LaTeX`
