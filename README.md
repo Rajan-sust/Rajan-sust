@@ -1,7 +1,9 @@
-- 👋 Hi, I’m from CS background. 
-- 👀 Think, Analyze & Develop just for fun
-- 🌱 Expertise: Computational biology, and computational linguistics.
-- 📫 How to reach me? Mail me: rajanrajusust@gmail.com
+
+- 👋 Hi, I’m Rajan Saha Raju  
+- 🎓 CS Graduate | Researcher  
+- 🔬 Research Interests: Bioinformatics, NLP for Low-Resource Languages, AI
+- ✉️ How to reach me? Mail me: rajansaha@sust.edu
+
 
 #### Technical Skills
 - **Programming Languages**: `Python3` `R` `Bash` `C++` `Java` `Go` `PHP`
